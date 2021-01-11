@@ -1,2 +1,3 @@
+include ':winglogger'
 include ':app'
 rootProject.name = "WingLogger"
